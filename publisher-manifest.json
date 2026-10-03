@@ -1,0 +1,124 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "15616ada4406aac40777de4f",
+  "owner": "cwkfnyqmm",
+  "repo": "page-956213a37525c7b183f77adb",
+  "title": "蛙云",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "956213a37525c7b183f77adb",
+      "a": "蛙云",
+      "b": "",
+      "entity": "蛙云",
+      "brand": "蛙云",
+      "separator": "",
+      "path": "index.html",
+      "hash": "74cc644a0c7eb9d971842c8b9b7ead13bad8f9185096cb234be7845a73f43fd2",
+      "content": {
+        "keyword1": "蛙云",
+        "keyword2": "",
+        "primary_entity": "蛙云",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "蛙云提供专业的VPN梯子与机场订阅服务，涵盖高速节点加速、多设备客户端下载及一站式配置教程。访问蛙云官网获取最新官方下载与套餐方案。",
+          "AI_DESCRIPTION": "蛙云提供专业的VPN梯子与机场订阅服务，涵盖高速节点加速、多设备客户端下载及一站式配置教程。访问蛙云官网获取最新官方下载与套餐方案。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>*{box-sizing:border-box;margin:0;padding:0}body{font-family:-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,\"Helvetica Neue\",Arial,sans-serif;font-size:16px;line-height:1.65;color:#1f2937;background:#f3f4f6;overflow-x:hidden}header{background:#5b21b6;color:#fff;padding:12px 16px;text-align:center}header .brand{font-size:22px;font-weight:700;margin-bottom:8px}nav{display:flex;flex-wrap:wrap;justify-content:center;gap:8px 12px}nav a{color:#e9d5ff;text-decoration:none;font-size:14px}main{max-width:920px;margin:0 auto;padding:16px}h1{font-size:28px;color:#4c1d95;text-align:center;margin:24px 0 8px;line-height:1.3}.lead{font-size:17px;text-align:center;color:#4b5563;margin-bottom:24px}h2{font-size:22px;color:#5b21b6;margin:0 0 12px;padding-bottom:6px;border-bottom:2px solid #ddd6fe}h3{font-size:18px;color:#6d28d9;margin:16px 0 8px}.section{background:#fff;padding:20px 16px;margin-bottom:16px;border-radius:8px;box-shadow:0 1px 3px rgba(0,0,0,.06)}.alt-section{display:flex;flex-direction:column;gap:16px}@media(min-width:640px){.alt-section{flex-direction:row;align-items:flex-start}.alt-section.reverse{flex-direction:row-reverse}.alt-section>div{flex:1;min-width:0}}.highlight{background:#ede9fe;padding:16px;border-radius:8px}.highlight h3{margin-top:0;color:#5b21b6}.plans{display:flex;flex-wrap:wrap;gap:12px;margin-top:16px}.plan{flex:1 1 240px;background:#faf5ff;border:1px solid #ddd6fe;padding:16px;border-radius:8px}.plan.featured{background:#5b21b6;color:#fff;border-color:#4c1d95}.plan.featured h3{color:#f3e8ff}.plan.featured .price{color:#fde68a}.price{font-size:24px;font-weight:700;color:#5b21b6;margin:8px 0 4px}.plan ul{list-style:none;margin-top:12px}.plan li{padding:6px 0;border-bottom:1px solid #e9d5ff;font-size:14px}.plan.featured li{border-bottom-color:rgba(255,255,255,.2)}details{background:#f9fafb;margin:8px 0;padding:12px 14px;border-radius:6px;border:1px solid #e5e7eb}summary{font-weight:600;color:#5b21b6;font-size:15px}details p{margin-top:8px;font-size:15px;color:#374151}.ad{background:#fef3c7;color:#78350f;padding:12px 16px;text-align:center;margin:16px 0;border-radius:6px;font-size:14px}footer{background:#1f2937;color:#9ca3af;padding:24px 16px;text-align:center;font-size:13px;line-height:1.6}footer a{color:#c4b5fd;text-decoration:none;margin:0 4px}footer .map,footer .flinks{margin:12px 0}p,ul{margin-bottom:10px}ul{padding-left:20px}a{color:#7c3aed}</style><header><div class=\"brand\">蛙云</div><nav><a href=\"#intro\">品牌简介</a><a href=\"#scenes\">使用场景</a><a href=\"#plans\">套餐方案</a><a href=\"#guide\">配置流程</a><a href=\"#faq\">常见问题</a><a href=\"#download\">客户端下载</a></nav></header><main><h1>蛙云官方网站</h1><p class=\"lead\">高速稳定的VPN梯子网络加速与机场订阅服务，提供全平台客户端下载与详细配置指引。</p><section id=\"intro\" class=\"section alt-section\"><div><h2>品牌简介</h2><p>蛙云是面向个人与团队用户的专业机场订阅与VPN加速品牌。我们通过遍布全球的优质节点，为用户提供突破网络限制的高速通道。无论是日常浏览、流媒体娱乐还是专业办公，蛙云都致力于带来低延迟、高可用的连接体验。</p><p>作为官方网站，这里发布最新套餐信息、客户端使用说明以及节点状态。我们坚持合规运营、及时响应用户需求，让网络加速变得简单可靠。</p></div><div class=\"highlight\"><h3>核心优势</h3><p>全球多地区优质节点覆盖<br>支持 Clash、V2Ray 等主流协议<br>原生解锁热门流媒体内容<br>游戏向 IPLC 专线优化<br>灵活套餐满足不同流量需求</p></div></section><section id=\"scenes\" class=\"section alt-section reverse\"><div class=\"highlight\"><h3>适用人群与场景</h3><ul><li>需要访问国际协作工具的远程工作者</li><li>查阅海外论文与在线课程的学生学者</li><li>希望观看地区限定影视综的影音用户</li><li>追求低延迟的国际服游戏玩家</li><li>注重上网隐私的公共网络安全使用者</li></ul></div><div><h2>使用场景</h2><p>蛙云VPN梯子可广泛应用于学习、工作与娱乐。在学术场景中，您可顺畅打开被限制的期刊网站与视频公开课；商务出差时，加密通道保护敏感数据传输；闲暇时则能无缓冲播放海外平台节目。</p><p>旗舰版特别针对游戏与实时通讯做了线路优化，团队版则适合工作室或小型企业统一管理多设备加速需求。</p></div></section><section id=\"plans\" class=\"section\"><h2>套餐方案</h2><p>根据流量、设备数与线路质量选择合适计划。年付享额外优惠，所有套餐流量每月重置，支持平滑升级。以下价格为官方标准，购买请通过本站认证渠道。</p><div class=\"plans\"><div class=\"plan\"><h3>基础版</h3><div class=\"price\">¥15/月</div><p>按年付仅需 ¥150/年</p><ul><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul></div><div class=\"plan featured\"><h3>旗舰版</h3><div class=\"price\">¥35/月</div><p>按年付仅需 ¥350/年</p><ul><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul></div><div class=\"plan\"><h3>团队版</h3><div class=\"price\">¥85/月</div><p>按年付仅需 ¥850/年</p><ul><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul></div></div></section><section id=\"guide\" class=\"section\"><h2>操作说明与配置流程</h2><p>蛙云采用标准机场订阅模式，配置一次即可长期使用。请按照下列步骤操作，整个过程通常只需几分钟。</p><div class=\"alt-section\"><div><h3>1. 订阅获取</h3><p>在官网完成套餐购买后，进入用户中心复制订阅链接。该链接包含您的节点配置，支持自动更新。请妥善保管，勿公开分享以免流量被盗用。</p><h3>2. 选择并下载客户端</h3><p>Windows：Clash Verge、v2rayN 或 NekoBox。macOS：ClashX.Meta、Stash。Android：Clash Meta for Android、v2rayNG。iOS：Shadowrocket、Quantumult X 或 Stash。Linux：clash 或 sing-box 命令行/图形前端。</p><p>请从各软件官方仓库或本站指引下载，确保版本较新以获得最佳兼容性。</p><h3>3. 导入订阅并连接</h3><p>启动客户端，找到订阅或 Profiles 功能，选择从 URL 添加，粘贴链接后更新。等待节点加载完成，测试延迟，选择合适节点开启系统代理或增强模式。浏览器或应用即可走加速通道。</p><h3>4. 日常使用与故障排除</h3><p>根据内容类型切换节点：流媒体用解锁标识线路，游戏用低延迟 IPLC。若连接失败，先更新订阅、更换节点或协议（如从 ws 换 grpc），检查本地防火墙。持续问题可通过工单反馈，旗舰用户享优先处理。</p></div><div class=\"highlight\"><h3>配置要点</h3><p>订阅链接更新后节点才会刷新，建议设置自动更新。</p><p>开启绕过中国大陆或类似规则可节省流量并提高国内网站速度。</p><p>iOS 用户需注意描述文件信任与 VPN 配置权限。</p><p>多设备使用时注意同时在线数量限制。</p><p>团队版可提供专属订阅与路由模板。</p></div></div></section><section class=\"section alt-section reverse\"><div class=\"highlight\"><h3>节点覆盖</h3><p>亚洲：香港、日本东京、新加坡、韩国<br>北美：美国西海岸、东海岸精选<br>欧洲：英国、德国等<br>部分线路支持原生住宅 IP 与专线接入，晚高峰依然保持可用带宽。</p></div><div><h2>性能与线路说明</h2><p>蛙云重视实际使用体验，普通套餐采用优化 BGP 与 CN2 类线路，旗舰以上引入 IPLC 内网专线用于游戏与通话场景，有效降低丢包与抖动。我们每日检测节点可用性，及时替换异常 IP，并提供负载均衡建议。</p><p>用户可在客户端查看实时延迟，选择当前最优路径。流量统计在用户中心透明展示，避免超支困扰。</p></div></section><section id=\"faq\" class=\"section\"><h2>常见问题</h2><details><summary>蛙云和普通VPN有什么区别？</summary><p>蛙云以机场订阅形式提供，用户通过一次订阅获得多个节点与协议选择，比传统单一VPN更灵活，且针对流媒体解锁和游戏加速做了专门优化，同时支持自己喜爱的客户端。</p></details><details><summary>如何下载蛙云官方客户端？</summary><p>蛙云本身以订阅为核心，推荐使用成熟开源客户端。本站配置流程页面列出了各系统推荐软件及其获取方式。直接搜索软件名加官方即可，导入蛙云订阅即可使用全部节点。</p></details><details><summary>年付和月付可以随时切换吗？</summary><p>可以。当前周期结束后可选择新的付费周期。年付用户如需提前变更，可联系客服按剩余折算处理。建议根据使用稳定性选择年付以节省费用。</p></details><details><summary>节点速度慢或无法解锁怎么办？</summary><p>首先更新订阅获取最新节点，然后手动测速选择延迟低、当前负载轻的线路。流媒体问题多因节点 IP 被识别，切换至带解锁或原生标签的节点即可。游戏则优先 IPLC。</p></details><details><summary>是否提供退款或试用？</summary><p>新用户首次订阅可享短时测试节点体验基础连通性。因数字服务特性，一经使用的流量套餐通常不支持无理由退款，但遇到重大线路故障我们会补偿流量或延期。具体以用户中心说明为准。</p></details><details><summary>团队版如何管理多名成员？</summary><p>团队版提供更高设备上限与流量池，管理员可分配子订阅或统一链接。支持定制分流（例如办公软件直连、视频走代理），并有专属客户经理协助初期配置与后续优化。</p></details></section><section id=\"download\" class=\"section\"><h2>开始使用蛙云</h2><p>现在就访问套餐页面完成订阅，复制您的机场订阅链接，下载对应客户端并导入。按照本页配置流程，几分钟内即可享受加速后的网络。蛙云官网始终提供最新说明与支持信息。</p><p>立即行动：<a href=\"#plans\">查看套餐</a>　<a href=\"#guide\">配置教程</a>　<a href=\"#faq\">解答疑问</a></p></section><div class=\"ad\">广告位：本站与基础设施伙伴协作，保障底层网络质量。选择蛙云官方渠道订阅，避免第三方倒卖带来的安全与稳定性风险。</div><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main><footer><p>蛙云官方网站 · 专业VPN梯子与机场订阅服务提供商</p><div class=\"flinks\"><strong>友情链接</strong>　<a href=\"#\">网络工具箱</a>　<a href=\"#\">延迟检测</a>　<a href=\"#\">客户端镜像指引</a>　<a href=\"#\">隐私保护指南</a></div><div class=\"map\"><strong>网站地图</strong>　<a href=\"#intro\">品牌简介</a>　<a href=\"#scenes\">使用场景</a>　<a href=\"#plans\">套餐方案</a>　<a href=\"#guide\">配置流程</a>　<a href=\"#faq\">常见问题</a>　<a href=\"#download\">客户端下载</a></div><p>内容供用户了解蛙云服务，实际以购买时用户协议为准。sitemap 与更多页面请通过导航访问。</p></footer>",
+          "hash": "3ff7e68b3e09b963dc7baa4616c32af6c17e33e4157b8fdd3288d8b2439f9f58",
+          "seo": {
+            "title": "蛙云官方网站 - VPN梯子网络加速器与机场订阅客户端下载",
+            "keywords": "蛙云,蛙云官网,蛙云VPN,蛙云机场,VPN加速器,梯子网络加速,机场订阅,客户端下载,官方下载",
+            "description": "蛙云提供专业的VPN梯子与机场订阅服务，涵盖高速节点加速、多设备客户端下载及一站式配置教程。访问蛙云官网获取最新官方下载与套餐方案。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "almdk.cn",
+    "host": "p-54b365f983.almdk.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [
+    {
+      "host": "almdk.cn",
+      "url": "https://almdk.cn/",
+      "label": "白嫖云",
+      "apex": "almdk.cn",
+      "kind": null,
+      "identity": "ffympwvsc/page-8ae3c0c948cb3558cbf561fa"
+    },
+    {
+      "host": "ezchihuo.com",
+      "url": "https://ezchihuo.com/",
+      "label": "蛙云",
+      "apex": "ezchihuo.com",
+      "kind": null,
+      "identity": "ubwphwap/page-fa773b96cf4408e0413d8f55"
+    },
+    {
+      "host": "pcobest.com",
+      "url": "https://pcobest.com/",
+      "label": "蛙云",
+      "apex": "pcobest.com",
+      "kind": null,
+      "identity": "qnajnq/page-93c87025fac96e3076dce44a"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "bcf70eb8aa30baa7f65af4de7e799fbd08288994a3d5044e3bfe8f504064798d",
+    "sitemap.xml": "6293ad29ccec0be4212a05d9f7d5163209875fb74bda14f67ef54c98391611c1",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "bcefa319b4f2d028ac0210dafb51f42c548ba33e9229cc175fbb0eac9657ad1d",
+    "robots.txt": "c634cbe4ea9cfb322fee1cd8d62def7dcd7b6933df3a3ef6eb7bdae914b5ea09",
+    "a96d0af7c5f7b5e59fad94f01aae3806.txt": "0dc2dbab877ffa8d2b1728dfe1c500c7ae6b44bbb2fc809d64c0f475223b3e28"
+  },
+  "revision": "55decf4be18300fa8557f1259436648e6e615bd156bca3c81f38245531b64c79"
+}
